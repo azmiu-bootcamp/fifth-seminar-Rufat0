@@ -1,6 +1,6 @@
-a = int(input("a-ni daxil edin-> "))
-b = int(input("b-ni daxil edin-> "))
-c = int(input("c-ni daxil edin-> "))
+a = int(input("1-ci reqemi daxil edin "))
+b = int(input("2-ci reqemi daxil edin "))
+c = int(input("3-cu reqemi daxil edin "))
 
 
 
